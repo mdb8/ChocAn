@@ -1,0 +1,7 @@
+name,id,address,city,state,zip,email
+Jared Dingle,123456789,800 road dr,Gotham City,New Jersey,63017,email@email.email
+Kaine Cotton,666666666,2764 Newton Street,Clinton,MN,56225,kcotton6@proton.me
+Reuben Oconnor,777777777,4716 Scenic Way,Terre Haute,IL,47807,roconnor7@yahoo.com
+Cian Johnston,888888888,1446 Davis Street,Athens,GA,30601,cjohnston8@icloud.com
+Jermaine Michael,999999999,1422 Midway Road,Fort Smith,AR,72901,jmichael9@tutamail.com
+Arnold Merrill,000000000,3058 Edgewood Road,Memphis,TN,38117,amerrill0@zohomail.com

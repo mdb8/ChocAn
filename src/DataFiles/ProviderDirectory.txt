@@ -1,0 +1,8 @@
+number,service,fee
+598470,Dietitian,375
+883948,Aerobics,82
+912823,Weight Training,35
+506953,Exposure Therapy,177
+340397,Sensory Pod,739
+749365,Massage,125
+937503,Physical Therapy,250

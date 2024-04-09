@@ -1,0 +1,6 @@
+username,password,id,name,address,city,state,zip,email
+mmassey,mmasseypass,111111111,Marie Massey,3276 Indiana Avenue,Waianae,HI,96792,mmassey1@gmail.com
+hhuffman,hhuffmanpass,222222222,Hajra Huffman,2448 Hall Place,Maydelle,TX,75652,hhuffman2@aol.com
+cjensen,cjensenpass,333333333,Coral Jensen,977 Boone Crockett Lane,Tukwila,WA,98168,cjensen3@hotmail.com
+bweaver,bweaverpass,444444444,Billie Weaver,2162 Linda Street,Newark,PA,19714,bweaver4@outlook.com
+fhernandez,fhernandezpass,555555555,Frankie Hernandez,3662 Wyatt Street,Boca Raton,FL,33434,fhernandez5@msn.net
